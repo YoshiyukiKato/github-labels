@@ -1,0 +1,18 @@
+[
+  {
+    "name" : "as: task",
+    "color" : "a61ecc"
+  },
+  {
+    "name" : "as: memo",
+    "color" : "ffe677"
+  },
+  {
+    "name" : "as: discussion",
+    "color" : "a9f9ed"
+  },
+  {
+    "name" : "as: question",
+    "color" : "d876e3"
+  }
+]
